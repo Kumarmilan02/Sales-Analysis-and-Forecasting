@@ -45,8 +45,9 @@ The project requires the following Python libraries and versions:
 
 ## Contributors
 - [MIlan Kumar Sahoo](https://github.com/Kumarmilan02)
-- [Sovan Pattanaik]
-- [Amogh]
+- [Sovan Pattanaik](https://github.com/Sovan2602)
+- [Amogh](https://github.com/AmoghCreator)
+- [Aditya](https://github.com/AadiXC0DE)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
